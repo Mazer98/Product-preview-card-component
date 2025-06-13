@@ -99,8 +99,8 @@ img {
 .car {
     background-color:transparent;
     height: 20px;
-    width: 40px;
-    object-fit:contain;    
+    width: auto;
+    border-radius: 0; 
 }
 
 
@@ -122,3 +122,7 @@ h2 , p {
     background-color: rgb(9, 14, 9);
     cursor: pointer;
 }
+
+
+
+
